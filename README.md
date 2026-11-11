@@ -6,7 +6,7 @@ Modes
 
 Single light: one LED lit, chosen by Pot 1’s position across eight zones.
 Volume display: LEDs fill from left to right as Pot 1 increases.
-Light wave: a wave sweeps across the array, with speed from 30 to 300 ms set by Pot 1.
+Light wave: a wave sweeps across the array, with speed from 60 to 300 ms set by Pot 1.
 
 Concepts: arrays, for loops, helper functions, analogRead(), map()
 
